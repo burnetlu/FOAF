@@ -1,0 +1,40 @@
+########################################################################
+#																	   #
+#						Info 724 - Projet de TP                        #
+#						 										       #
+#							M1 - STIC - Info                           #
+#							       									   #
+#							  2014 / 2015							   #
+#							  										   #
+#					  Caillet / Burnet / Mollard			           #
+#							  										   #
+########################################################################							  
+
+Présentation de l'équipe :
+
+  - Burnet Lucas     : burnetlu@etu.univ-savoie.fr
+  - Caillet François : caillefr@etu.univ-savoie.fr
+  - Mollard Rémi     : mollarre@etu.univ-savoie.fr
+  
+
+Organisation de l'équipe :
+
+	- 1ére phase "analyse" : 
+	
+			- Analyse du sujet chancun de son coté
+			- Mise en commun des éléments percus
+
+	- 2éme phase "concéption" :
+	
+			- Definition du modéle des données
+			- Répartition des taches ( 1 executable / personne )
+	
+	- 3éme phase "réalisation" :
+	
+			- Mise en commun des 3 executables
+			- Refactoring du code
+			- Mise en commun des difficultées rencontrées
+			
+Remarques :
+
+	- Le lien entre le TP et le cour est vraiment appréciable
